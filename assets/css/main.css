@@ -3,7 +3,7 @@
   stroke-dasharray: 500;
   stroke-dashoffset: 500;
   animation: dash 5s linear forwards, filling 5s ease-in forwards;
-  font-size: 80px;
+  font-size: 8vh;
 }
 
 .text-line text {
